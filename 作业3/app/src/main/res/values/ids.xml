@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_control" type="id" />
+    <item name="tv_bbs" type="id" />
+    <item name="btn_click" type="id" />
+    <item name="btn_bottom" type="id" />
+    <item name="btn_right" type="id" />
+    <item name="btn_top" type="id" />
+    <item name="btn_left" type="id" />
+    <item name="btn_icon" type="id" />
+    <item name="v_content" type="id" />
+    <item name="btn_rect" type="id" />
+    <item name="btn_oval" type="id" />
+    <item name="btn_line" type="id" />
+    <item name="btn_center" type="id" />
+    <item name="btn_fitCenter" type="id" />
+    <item name="btn_centerCrop" type="id" />
+    <item name="btn_centerInside" type="id" />
+    <item name="btn_fitXY" type="id" />
+    <item name="iv_scale" type="id" />
+    <item name="btn_fitEnd" type="id" />
+    <item name="btn_fitStart" type="id" />
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sw_ios" type="id" />
+    <item name="tv_result" type="id" />
+    <item name="tv_ios_result" type="id" />
+    <item name="sw_status" type="id" />
+    <item name="sp_dialog" type="id" />
+    <item name="sp_dropdown" type="id" />
+    <item name="ck_custom2" type="id" />
+    <item name="ck_custom" type="id" />
+    <item name="ck_system" type="id" />
+    <item name="tv_name" type="id" />
+    <item name="iv_icon" type="id" />
+    <item name="tv_sex" type="id" />
+    <item name="rg_sex" type="id" />
+    <item name="rb_scale2" type="id" />
+    <item name="rb_scale" type="id" />
+    <item name="rb_male" type="id" />
+    <item name="rb_female" type="id" />
+    <item name="ac_text" type="id" />
+    <item name="et_password" type="id" />
+    <item name="et_phone" type="id" />
+    <item name="et_border" type="id" />
+    <item name="et_hint" type="id" />
+    <item name="sp_sex" type="id" />
+    <item name="et_password_first" type="id" />
+    <item name="et_password_second" type="id" />
+    <item name="et_verifycode" type="id" />
+    <item name="btn_confirm" type="id" />
+    <item name="btn_verifycode" type="id" />
+</resources>
