@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="week_shedule" type="id" />
+    <item name="week_number" type="id" />
+    <item name="tv_day" type="id" />
+    <item name="lv_shedule" type="id" />
+    <item name="schedule_content" type="id" />
+    <item name="schedule_title" type="id" />
+    <item name="schedule_time" type="id" />
+    <item name="schedule_date" type="id" />
+    <item name="btn_save" type="id" />
+    <item name="btn_edit" type="id" />
+    <item name="btn_back" type="id" />
+    <item name="schedule_alarm" type="id" />
+    <item name="cl_schedule" type="id" />
+    <item name="pts_schedule" type="id" />
+    <item name="tv_schedule" type="id" />
+    <item name="vp_schedule" type="id" />
+    <item name="tv_tab_style_button" type="id" />
+    <item name="tv_tab_button" type="id" />
+    <item name="ck_select" type="id" />
+</resources>
