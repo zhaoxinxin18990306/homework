@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="sql" ></dbname>
+
+    <version value="6" ></version>
+
+    <list>
+        <mapping class="com.example.androidshopping.entity.RegsiterBean"></mapping>
+        <mapping class="com.example.androidshopping.entity.LoginBean"></mapping>
+        <mapping class="com.example.androidshopping.entity.ShopCartBean"></mapping>
+        <mapping class="com.example.androidshopping.entity.ShopItemBean"></mapping>
+        <mapping class="com.example.androidshopping.entity.HistoryBean"></mapping>
+    </list>
+</litepal>

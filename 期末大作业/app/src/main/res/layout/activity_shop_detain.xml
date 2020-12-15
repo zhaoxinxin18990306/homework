@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Show.ShopDetailActivity">
+    <RelativeLayout
+        android:background="#56abe4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView
+            android:textStyle="bold"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"
+            android:text="商品详情"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></TextView>
+    </RelativeLayout>
+<ImageView
+    android:id="@+id/shopdetail_img"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"></ImageView>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+
+            android:textColor="#F44336"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="￥"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></TextView>
+        <TextView
+            android:id="@+id/shop_detail_price"
+            android:textColor="#F44336"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="900"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></TextView>
+        <TextView
+
+            android:textColor="#F44336"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="元"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></TextView>
+    </LinearLayout>
+
+    <TextView
+
+        android:text="商家详情页（含主图）以图片或文字形式标注的一口价、促销价、优惠价等价格可能是在使用优惠券、满减或特定优惠活动和时段等情形下的价格，具体请以结算页面的标价、优惠条件或活动规则为准。"
+        android:id="@+id/shop_detail"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"></TextView>
+    <Button
+        android:id="@+id/btn_addshopcart"
+        android:background="@drawable/btnjianbian"
+        android:layout_marginBottom="20sp"
+        android:text="加入购物车"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Button>
+
+</LinearLayout>

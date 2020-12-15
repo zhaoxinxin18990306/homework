@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp">
+
+    <TextView
+        android:gravity="center|left"
+        android:textColor="#F44336"
+        android:textSize="20sp"
+        android:id="@+id/tv_item"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></TextView>
+    <View
+        android:background="#2196F3"
+        android:layout_width="match_parent"
+        android:layout_height="1px"></View>
+<TextView
+    android:gravity="center|left"
+    android:textColor="#8BC34A"
+    android:textSize="20sp"
+    android:id="@+id/tv_item_price"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"></TextView>
+<View
+    android:background="#2196F3"
+    android:layout_width="match_parent"
+    android:layout_height="1px"></View>
+    <TextView
+        android:gravity="center|left"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        android:id="@+id/tv_item_name"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"></TextView>
+    <View
+        android:background="#2196F3"
+        android:layout_width="match_parent"
+        android:layout_height="1px"></View>
+    <TextView
+
+        android:gravity="center|left"
+        android:textColor="#2196F3"
+        android:textSize="20sp"
+        android:id="@+id/tv_item_date"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"></TextView>
+    <View
+        android:background="#2196F3"
+        android:layout_width="match_parent"
+        android:layout_height="1px"></View>
+</LinearLayout>
+</LinearLayout>
